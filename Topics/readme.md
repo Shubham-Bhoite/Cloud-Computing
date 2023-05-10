@@ -4,7 +4,7 @@ All important thing about Cloud-Computing.
 ## [TOPICS](https://github.com/Shubham-Bhoite/Cloud-Computing)
 
 
-[Topic1](https://github.com/Shubham-Bhoite/Cloud-Computing)
+[Topic1](https://github.com/Shubham-Bhoite/Cloud-Computing/tree/main/Topics/Topic1)
 
 
 [Topic2](https://github.com/Shubham-Bhoite/Cloud-Computing)
