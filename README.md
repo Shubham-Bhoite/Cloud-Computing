@@ -16,8 +16,10 @@ All important thing about Cloud-Computing.
   - [Cloud-Deployment-model](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic1/Cloud-Deployment-model.md)
 
 ---
-[Topic2](https://github.com/Shubham-Bhoite/Cloud-Computing)
-- []
+[Topic2](https://github.com/Shubham-Bhoite/Cloud-Computing/tree/main/Topics/Topic2)
+- [Direct Attached Storage](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic2/Direct%20Attached%20Storage.md)
+
+---
 
 [Topic3](https://github.com/Shubham-Bhoite/Cloud-Computing)
 
