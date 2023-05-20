@@ -18,6 +18,8 @@ All important thing about Cloud-Computing.
 ---
 [Topic2](https://github.com/Shubham-Bhoite/Cloud-Computing/tree/main/Topics/Topic2)
 - [Direct Attached Storage](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic2/Direct%20Attached%20Storage.md)
+- [Storage Area Network](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic2/Storage%20Area%20Network.md)
+- [Network attached Storage](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic2/Network%20attached%20Storage.md)
 
 ---
 
