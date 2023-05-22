@@ -21,6 +21,8 @@ All important thing about Cloud-Computing.
 - [Storage Area Network](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic2/Storage%20Area%20Network.md)
 - [Network attached Storage](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic2/Network%20%20attached%20Storage.md)
 - [Cloud File System](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic2/Cloud%20File%20System.md)
+- [Cloud Data Stores](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic2/Cloud%20Data%20Stores.md)
+
 
 
 ---
