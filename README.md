@@ -24,12 +24,15 @@ All important thing about Cloud-Computing.
 - [Cloud Data Stores](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic2/Cloud%20Data%20Stores.md)
 -  [Distributed Data Storage](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic2/Distributed%20Data%20Storage.md)
 
+---
+[Topic3](https://github.com/Shubham-Bhoite/Cloud-Computing)
+- [Virtualization](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic3/Virtualization.md)
 
 
 
 ---
 
-[Topic3](https://github.com/Shubham-Bhoite/Cloud-Computing)
+
 
 [Topic4](https://github.com/Shubham-Bhoite/Cloud-Computing)
 
