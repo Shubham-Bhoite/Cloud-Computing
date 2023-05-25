@@ -27,6 +27,7 @@ All important thing about Cloud-Computing.
 ---
 [Topic3](https://github.com/Shubham-Bhoite/Cloud-Computing)
 - [Virtualization](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic3/Virtualization.md)
+- [Types of Virtualization](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic3/Types%20of%20Virtualization.md)
 
 
 
