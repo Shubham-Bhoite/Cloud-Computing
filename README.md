@@ -28,7 +28,8 @@ All important thing about Cloud-Computing.
 [Topic3](https://github.com/Shubham-Bhoite/Cloud-Computing)
 - [Virtualization](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic3/Virtualization.md)
 - [Types of Virtualization](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic3/Types%20of%20Virtualizations.md)
-- [Memory Virtualization](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic3/Memory%20Virtualizations.md)
+- [Memory Virtualization](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic3/Memory%20Virtualization.md)
+- [Full and Para Difference](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic3/full%20and%20para%20difference.png)
 
 
 
