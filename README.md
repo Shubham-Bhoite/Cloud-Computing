@@ -25,14 +25,14 @@ All important thing about Cloud-Computing.
 -  [Distributed Data Storage](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic2/Distributed%20Data%20Storage.md)
 
 ---
-[Topic3](https://github.com/Shubham-Bhoite/Cloud-Computing)
+[Topic3](https://github.com/Shubham-Bhoite/Cloud-Computing/tree/main/Topics/Topic3)
 - [Virtualization](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic3/Virtualization.md)
 - [Types of Virtualization](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic3/Types%20of%20Virtualizations.md)
 - [Memory Virtualization](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic3/Memory%20Virtualization.md)
 - [Full and Para Difference](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic3/full%20and%20para%20difference.png)
-
-
-
+- [Virtual Clustering](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic3/Virtual%20Clustering.md)
+- [Virtualization Application](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic3/Virtualization%20Application.md)
+- [Virtualization and Cloud Difference](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic3/Virtualization%20and%20Cloud%20difference.png)
 
 ---
 
