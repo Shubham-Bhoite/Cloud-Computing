@@ -47,6 +47,7 @@ All important things about Cloud-Computing.
 - [Microsoft Cloud Services : Azure](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic4/Microsoft%20Cloud%20Services%20.%20Azure.md)
 - [Cloud Computing Applications](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic4/Cloud%20Computing%20Applications.md)
 ---
-[Topic5](https://github.com/Shubham-Bhoite/Cloud-Computing)
-
+[Topic5](https://github.com/Shubham-Bhoite/Cloud-Computing/tree/main/Topics/Topic5)
+- [Risks in Cloud Computing](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic5/Risks%20in%20Cloud%20Computing.md)
+---
 [Topic6](https://github.com/Shubham-Bhoite/Cloud-Computing)
