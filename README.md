@@ -52,5 +52,6 @@ All important things about Cloud-Computing.
 - [Types of Risks in Cloud Computing](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic5/Types%20of%20Risks%20in%20Cloud%20Computing.md)
 - [Security Challenges](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic5/Security%20challenges%20for%20cloud%20service%20customers.md)
 - [Cloud Security Services](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic5/Cloud%20Security%20Services.md)
+- [Secure Cloud Software Requirements](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic5/Secure%20Cloud%20Software%20Requirements.md)
 ---
 [Topic6](https://github.com/Shubham-Bhoite/Cloud-Computing)
