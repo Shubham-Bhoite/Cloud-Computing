@@ -53,5 +53,9 @@ All important things about Cloud-Computing.
 - [Security Challenges](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic5/Security%20challenges%20for%20cloud%20service%20customers.md)
 - [Cloud Security Services](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic5/Cloud%20Security%20Services.md)
 - [Secure Cloud Software Requirements](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic5/Secure%20Cloud%20Software%20Requirements.md)
+- [Secure Cloud Software Testing](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic5/Secure%20Cloud%20Software%20Testing.md)
+- [Type of Testing in Cloud](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic5/Type%20of%20Testing%20in%20Cloud.md)
+- [Benefits of Cloud Based Testing](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic5/Benefits%20of%20Cloud%20Based%20Testing.md)
+
 ---
 [Topic6](https://github.com/Shubham-Bhoite/Cloud-Computing)
