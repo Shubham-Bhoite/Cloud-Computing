@@ -58,4 +58,6 @@ All important things about Cloud-Computing.
 - [Benefits of Cloud Based Testing](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic5/Benefits%20of%20Cloud%20Based%20Testing.md)
 
 ---
-[Topic6](https://github.com/Shubham-Bhoite/Cloud-Computing)
+[Topic6](https://github.com/Shubham-Bhoite/Cloud-Computing/tree/main/Topics/Topic6)
+- [Mobile Cloud](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic6/Mobile%20Cloud.md)
+- [Advantages and Disadvantages of Mobile Cloud](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic6/Advantages%20and%20Disadvantages.md)
