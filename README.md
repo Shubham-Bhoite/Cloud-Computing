@@ -62,3 +62,4 @@ All important things about Cloud-Computing.
 - [Mobile Cloud](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic6/Mobile%20Cloud.md)
 - [Advantages and Disadvantages of Mobile Cloud](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic6/Advantages%20and%20Disadvantages.md)
 - [Mobile Cloud Applications](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic6/Mobile%20CIOUd%20Application.md)
+- [Automatic Cloud Computing](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic6/Automatic%20Cloud%20Computing.md)
