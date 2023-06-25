@@ -65,3 +65,4 @@ All important things about Cloud-Computing.
 - [Automatic Cloud Computing](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic6/Automatic%20Cloud%20Computing.md)
 - [cloudlets vs clouds](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic6/Difference%20between%20cloudlets%20and%20clouds.md)
 - [Multimedia Cloud](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic6/Multimedia%20Cloud.md)
+- [Green Cloud](https://github.com/Shubham-Bhoite/Cloud-Computing/blob/main/Topics/Topic6/Green%20Cloud.md)
