@@ -18,6 +18,6 @@
 -  Web server receive request.
 -  Put request message in the queue.
 -  Pictures stored in 53.
--  Multiple EC2 instances run photo prcxessing.
+-  Multiple EC2 instances run photo processing.
 -  Put back in the queue.
 -  Return
