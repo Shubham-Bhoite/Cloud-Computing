@@ -1,6 +1,6 @@
 # Cloud-Computing
 
-All important things about Cloud-Computing.
+All important things about Cloud Computing which will specially helps you in university exam.
 
 
 ## [TOPICS](https://github.com/Shubham-Bhoite/Cloud-Computing)
